@@ -1,0 +1,45 @@
+table {
+    color: #fff;
+    text-align: center;
+    font: normal 3em Arial, Helvetica, sans-serif;
+    background-color: #580256;
+    border-collapse: separate; 
+}
+
+tr {
+    height: 16.02vh;
+    background-color: #580256;
+}
+
+td {
+    width: 25vw;
+    border: 1px solid #580256;
+}
+
+#inputBox {
+    background-color: #580256;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    color: #fff;
+    border: 0px;
+}
+
+.digitButton {
+    background-color: #ffc0cb;
+    border-radius: 15px;
+    border: none;
+}
+
+.operatorButton {
+    background-color: #f60682;
+    border-radius: 15px;
+    border: none;
+}
+
+.ACButton {
+    background-color: #9e0a9e;
+    border-radius: 15px;
+    border: none;
+} 
+
